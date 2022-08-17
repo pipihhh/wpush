@@ -1,4 +1,4 @@
-package com.wpush.core.configuration;
+package com.wpush.scheduler.configuration;
 
 import com.xxl.job.core.executor.XxlJobExecutor;
 import com.xxl.job.core.executor.impl.XxlJobSpringExecutor;
