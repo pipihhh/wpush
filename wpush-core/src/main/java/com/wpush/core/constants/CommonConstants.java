@@ -34,9 +34,9 @@ public class CommonConstants {
   public static final HashMap<String, String> TEMPLATE_MAP = new HashMap<>();
 
   /**
-   * 上海静安地区编码
+   * 北京朝阳编码
    */
-  public static final String SHANGHAI_CODE = "110105";
+  public static final String BEIJING_CODE = "110105";
 
   /**
    * 福建鼓楼区编码

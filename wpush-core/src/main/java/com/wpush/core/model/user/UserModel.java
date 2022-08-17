@@ -17,11 +17,11 @@ public class UserModel {
 
   static {
 
-    USER_INFO.put(CommonConstants.JIANG_TOKEN,new User(CommonConstants.FUZHOU_CODE,"2021-03-28","2023-02-20","姜姜给洋洋的专属提醒:多喝烫水!"));
+    USER_INFO.put(CommonConstants.JIANG_TOKEN, new User(CommonConstants.FUZHOU_CODE,"2021-03-28","2023-02-20","姜姜给洋洋的专属提醒:多喝烫水!"));
 
-    USER_INFO.put(CommonConstants.YANG_TOKEN,new User(CommonConstants.FUZHOU_CODE,"2021-03-31","2023-02-20","姜姜给洋洋的专属提醒:多喝烫水!"));
+    USER_INFO.put(CommonConstants.YANG_TOKEN, new User(CommonConstants.FUZHOU_CODE,"2021-03-28","2023-02-20","姜姜给洋洋的专属提醒:多喝烫水!"));
 
-    USER_INFO.put(CommonConstants.DONG_YI_TOKEN,new User(CommonConstants.SHANGHAI_CODE,"2021-11-14","2023-03-03","付东一给YXT的专属提醒:多喝开水!"));
+    USER_INFO.put(CommonConstants.DONG_YI_TOKEN, new User(CommonConstants.BEIJING_CODE,"2021-11-14","2023-03-03","付东一给YXT的专属提醒:多喝开水!"));
   }
 
   public User get(String token) {
